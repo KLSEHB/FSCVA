@@ -2,7 +2,9 @@
 
 Fingerprint-based Side-Channel Vulnerability Assessment in Web Searching Services
 
-The source code will be made public upon acceptance of the paper.
+The source code will be made public upon acceptance of the paper. 
+
+The complete results for all metrics (including accuracy, precision, recall, and F1-score) alongside MCC are fully presented in the corresponding tables.
 
 ## User Guide
 
