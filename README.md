@@ -1,10 +1,14 @@
 # FSCVA
 
-Fingerprint-based Side-Channel Vulnerability Assessment in Web Searching Services
+**Fingerprint-based Side-Channel Vulnerability Assessment in Web Searching Services** submitted to TIFS.
 
 The source code will be made public upon acceptance of the paper. 
 
 The complete results for all metrics (including accuracy, precision, recall, and F1-score) alongside MCC are fully presented in the corresponding tables.
+
+The query words are provided in the "Query Words" folder.
+
+Files 1-4 contain the data analysis and statistics from search engines (e.g., Bing, Baidu) regarding letters, boundaries, and packets, corresponding to Section VIII-D of the Manuscript.
 
 ## User Guide
 
