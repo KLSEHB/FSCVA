@@ -1,0 +1,21 @@
+Taobao，eBay，JD，Amazon
+	1-10：['switch', 'laptop', 'airpods', 'headphones', 'earbuds', 'ipad', 'ssd', 'fitbit', 'game_of_thrones','fire_stick'],
+	11-20：['toilet_paper', 'external_hard_drive', 'instant_pot', 'tablet', 'micro_sd_card', 'kindle', 'tv', 'air_fryer', 'bluetooth', 'roku'],
+	21-30：['gaming_chair', 'apple_watch', 'monitor', 'ps4', 'alexa', 'paper_towels', 'desk', 'office_chair','ring_doorbell', 'luggage'],
+
+Hopkinson Hospital
+	1-10：['cough', 'headache', 'heart disease', 'hepatitis', 'leukemia', 'meningitis', 'rabies', 'stroke', 'AIDS', 'cystitis'],
+	11-20：['cefuroxime', 'aspirin', 'coronavirus', 'careers', 'medical_records', 'map', 'insurance_accepted', 'telemedicine', 'ibuprofen depression'],:
+	21-30：['influenza', 'diarrhea', 'covid19', 'breast_cancer', 'erectile_dysfunction', 'hemorrhoids', 'canker_sore', 'anemia', 'hypertension', 'rhinitis'],
+
+Bing Baidu Google2017
+LABELS2013='PlayStation_4 North_Korea Samsung_Galaxy_4 Royal_Baby Boston_Marathon Harlem_Shake Cory_Monteith iPhone_5S Paul_Walker Nelson_Mandela'
+LABELS2014='Robin_Williams World_Cup Ebola Malaysia_Airlines ALS_Ice_Bucket_Challenge Flappy_Bird Conchita_Wurst ISIS Frozen Sochi_Olympics'
+LABELS2015='Lamar_Odom Jurassic_World American_Sniper Caitlyn_Jenner Ronda_Rousey Paris Agario Chris_Kyle Fallout_4 Straight_Outta_Compton'
+LABELS2016='Powerball Prince Hurricane_Matthew Pokemon_Go Slither.io Olympics David_Bowie Trump Election Hillary_Clinton'
+LABELS2017='hurricane_irma matt_lauer tom_petty super_bowl las_vegas_shooting mayweather_vs_mcgregor_fight solar_eclipse hurricane_harvey aaron_hernandez fidget_spinner'
+LABELS2018='World_Cup Avicii Mac_Miller Stan_Lee Black_Panther Meghan_Markle Anthony_Bourdain XXXTentacion Stephen_Hawking Kate_Spade'
+LABELS2019='Disney_Plus Cameron_Boyce Nipsey_Hussle Hurricane_Dorian Antonio_Brown Luke_Perry Avengers_Endgame Game_of_Thrones iPhone_11 Jussie_Smollett'
+LABELS2020='Election_results Kobe_Bean_Bryant Zoom IPL India_vs_New_Zealand Coronavirus_update Coronavirus_symptoms Joe_Biden Google_Classroom Coronavirus'
+LABELS2021='Australia_vs_India India_vs_England IPL NBA Euro_2021 Copa_America India_vs_New_Zealand T20_World_Cup Squid_Game DMX'
+LABELS2022='Wordle India_vs_England Ukraine Queen_Elizabeth Ind_vs_SA World_Cup India_vs_West_Indies iPhone14 Jeffrey_Dahmer Indian_Premier_League'
